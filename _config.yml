@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "KGM"
+title:		           "KGN"
 description:	       "Video Game News, Reviews, and Walkthroughs"
 author:              "Kong Weihang"
 
