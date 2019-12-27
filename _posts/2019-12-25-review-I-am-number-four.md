@@ -4,7 +4,7 @@ title: "关键第四号 I Am Number Four KGN: 1/10 一坨屎，不要浪费你�
 author: "Kong Weihang"
 categories: review
 tags: [review,movie]
-image: IAmNumberFour.jpg
+image: i-am-number-four.jpg
 ---
 
 # KGN Review
