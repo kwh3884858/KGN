@@ -2,6 +2,24 @@
 
 A deep fantasy review.
 
+## Installation
+
+Download requirements.
+
+https://jekyllrb.com/docs/installation/
+
+
+- install jekyll
+```
+gem install jekyll bundler
+
+```
+
+- open project root path, input 
+```
+gem install
+```
+to install all dependencies.
 
 ## Usage
 
