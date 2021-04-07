@@ -3,7 +3,7 @@ layout: post
 title: "BioShock 生化奇兵 KGN 6.5/10 有着恐怖氛围和独特玩法的FPS游戏"
 author: "Kong Weihang"
 categories: game
-tags: [review,movie]
+tags: [review,game]
 image: Bioshock.jpeg
 ---
 

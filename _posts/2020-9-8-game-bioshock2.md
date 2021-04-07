@@ -3,7 +3,7 @@ layout: post
 title: "BioShock2 生化奇兵2 KGN 7.5/10 恰到好处的紧张氛围下的FPS游戏"
 author: "Kong Weihang"
 categories: game
-tags: [review,movie]
+tags: [review,game]
 image: BioShock2.jpg
 ---
 
