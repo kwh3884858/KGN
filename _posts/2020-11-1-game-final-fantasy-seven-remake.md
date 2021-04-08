@@ -2,7 +2,7 @@
 layout: post
 title: "最终幻想7重制版 Final Fantasy 7 Remake KGN 8/10 很好，但是还不够"
 author: "Kong Weihang"
-categories: review
+categories: game
 tags: [review,game]
 image: final-fantasy-VII-remake.jpg
 ---
