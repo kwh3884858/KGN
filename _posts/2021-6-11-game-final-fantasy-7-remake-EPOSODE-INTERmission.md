@@ -2,7 +2,7 @@
 layout: post
 title: "最终幻想7重制版尤菲的新篇章 Final Fantasy 7 Remake Episode INTERmission KGN 7/10 卖得太贵的线性DLC"
 author: "Kong Weihang"
-categories: review
+categories: game
 tags: [review,game]
 image: final-fantasy-VII-remake-intermission.png
 ---

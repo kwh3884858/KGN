@@ -3,7 +3,7 @@ layout: post
 title: "Luigi's Mansion 3 路易吉洋馆3 KGN 9/10 拥有绝佳体验的冒险游戏"
 author: "Kong Weihang"
 categories: game
-tags: [review,movie]
+tags: [review,game]
 image: luigis-mansion-3.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "控制 Control KGN 8/10 需要60帧和超快SSD才算是完整的体验"
 author: "Kong Weihang"
-categories: review
+categories: game
 tags: [review,game]
 image: control.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "莱莎的炼金工房～常暗女王与秘密藏身处～ Atelier Ryza: Ever Darkness & the Secret Hideout KGN 6/10 勉强及格的JRPG"
 author: "Kong Weihang"
-categories: review
+categories: game
 tags: [review,game]
 image: atelier-ryza-ever-darkness-and-the-secret-hideout.jpg
 ---
