@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LNK2019 的一种情况，需要限定友元所作用的实例化"
+title: "Something about RC file, aka Windows Resources File 一些关于RC文件的记录"
 author: "Kong Wei Hang"
 categories: tech
 tags: [Windows Programming]
