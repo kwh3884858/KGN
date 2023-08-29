@@ -28,6 +28,36 @@
   margin: 10px;
 }
 
+.featured-posts-without-image {
+height: 69px;
+margin: 5px 10px 10px;
+/* background-position: center; */
+/* background-repeat: no-repeat; */
+/* background-size: cover; */
+position: relative;
+
+.featured-posts-without-image h2 {
+  bottom: 0;
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+}
+.featured-posts-without-image h2 span {
+   display: inline-block;
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+.featured-posts-without-image span a {
+  color: white;
+}
+.featured-posts-without-image h1 {
+  margin: 10px;
+}
+
 /*
   Pagination
 */
