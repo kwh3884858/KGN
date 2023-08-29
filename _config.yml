@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "KGN"
 description:	       "Video Game News, Reviews, and Walkthroughs"
-author:              "Kong Weihang"
+author:              "Kong Wei Hang"
 aboutUs:             "KGN是全球知名娱乐测评平台之一，与IGN齐名，是世界范围内最不靠谱的游戏、影视产业的报道者"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
